@@ -13,5 +13,9 @@ function initialize() {   //start study
             }
     		$("#result").html(toShow);
   		});
+  		//save the data - note this is commented out because Facebook data can
+  		//be very large. Un-comment submit(result) to actually save the data
+  		//donated.
+  		//submit(result)
 	});
 }
