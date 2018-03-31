@@ -2,6 +2,7 @@ table tr td {
   border: 1px solid black;
 }
 
+/*Make the cells look like hyperlinks so people know to click them*/
 td {
   cursor: pointer;
   color: blue;
