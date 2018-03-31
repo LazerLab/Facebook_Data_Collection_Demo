@@ -1,0 +1,12 @@
+table tr td {
+  border: 1px solid black;
+}
+
+td {
+  cursor: pointer;
+  color: blue;
+}
+
+td:hover {
+  text-decoration: underline;
+}
